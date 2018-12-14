@@ -72,4 +72,22 @@ else:
     print("You are dropped out!")
 
 
-    
+'''OUTPUT:stud@HP-246-Notebook-PC:~$ python abi_random.py
+***************WELCOME To WORD_GAUGE!*************
+Guess the number:7
+you guessed 75% away!
+you have 2 more chances
+You have some more chances! Want to play again! Type yes or no yes
+Guess the number:77
+you guessed 25% away!
+you have 1 more chances
+You have some more chances! Want to play again! Type yes or no yes
+Guess the number:96
+you guessed 50% away!
+you have 0 more chances
+Chances exceeded! Well tried! see you later!
+Take a hint to find out the guess!
+Subtract 34 from your last guess
+Finally guess the number:62
+You have finally done well!
+'''
